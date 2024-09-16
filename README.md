@@ -1,4 +1,4 @@
-#Javascipt-4
+# Javascipt-4
 
 Beberapa aplikasi javascript: <br>
 -Penggunaan function dan method untuk deteksi palindrom <br>
